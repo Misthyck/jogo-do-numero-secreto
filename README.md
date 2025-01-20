@@ -1,1 +1,1 @@
-Projeto para aprender lógica de programação com JS.
+Projeto da Alura para aprender lógica de programação com JS.
